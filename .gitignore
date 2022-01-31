@@ -1,0 +1,3 @@
+# Project exclude paths
+/assign/cal-api/target/
+/assign/cal-impl/target/
